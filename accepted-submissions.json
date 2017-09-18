@@ -3,18 +3,30 @@
   {
    "lastAccept": 1505775523, 
    "pos": 1, 
-   "score": 1000, 
+   "score": 974, 
    "taskStats": {
     "magic_eye": {
      "points": 500, 
      "time": 1505775287
     }, 
     "rsa_sux": {
-     "points": 500, 
+     "points": 474, 
      "time": 1505775523
     }
    }, 
    "team": "Fatec_Ourinhos"
+  }, 
+  {
+   "lastAccept": 1505775621, 
+   "pos": 2, 
+   "score": 474, 
+   "taskStats": {
+    "rsa_sux": {
+     "points": 474, 
+     "time": 1505775621
+    }
+   }, 
+   "team": "meados_d_escazzes"
   }
  ], 
  "tasks": [
