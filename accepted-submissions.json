@@ -1,19 +1,24 @@
 {
  "standings": [
   {
-   "lastAccept": 1505775287, 
+   "lastAccept": 1505775523, 
    "pos": 1, 
-   "score": 500, 
+   "score": 1000, 
    "taskStats": {
     "magic_eye": {
      "points": 500, 
      "time": 1505775287
+    }, 
+    "rsa_sux": {
+     "points": 500, 
+     "time": 1505775523
     }
    }, 
    "team": "Fatec_Ourinhos"
   }
  ], 
  "tasks": [
-  "magic_eye"
+  "magic_eye", 
+  "rsa_sux"
  ]
 }
