@@ -1,1 +1,19 @@
-{}
+{
+ "standings": [
+  {
+   "lastAccept": 1505775287, 
+   "pos": 1, 
+   "score": 500, 
+   "taskStats": {
+    "magic_eye": {
+     "points": 500, 
+     "time": 1505775287
+    }
+   }, 
+   "team": "Fatec_Ourinhos"
+  }
+ ], 
+ "tasks": [
+  "magic_eye"
+ ]
+}
