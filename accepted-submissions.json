@@ -3,10 +3,10 @@
   {
    "lastAccept": 1505824621, 
    "pos": 1, 
-   "score": 2375, 
+   "score": 2354, 
    "taskStats": {
     "crypto_img": {
-     "points": 474, 
+     "points": 453, 
      "time": 1505789641
     }, 
     "faas_blacklist": {
@@ -31,10 +31,10 @@
   {
    "lastAccept": 1505838513, 
    "pos": 2, 
-   "score": 1401, 
+   "score": 1380, 
    "taskStats": {
     "crypto_img": {
-     "points": 474, 
+     "points": 453, 
      "time": 1505838513
     }, 
     "rsa_sux": {
@@ -49,10 +49,14 @@
    "team": "meados_d_escazzes"
   }, 
   {
-   "lastAccept": 1505780814, 
+   "lastAccept": 1505860694, 
    "pos": 3, 
-   "score": 927, 
+   "score": 1380, 
    "taskStats": {
+    "crypto_img": {
+     "points": 453, 
+     "time": 1505860694
+    }, 
     "magic_eye": {
      "points": 474, 
      "time": 1505780416
