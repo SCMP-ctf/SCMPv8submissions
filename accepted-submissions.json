@@ -3,7 +3,7 @@
   {
    "lastAccept": 1505776221, 
    "pos": 1, 
-   "score": 1427, 
+   "score": 1401, 
    "taskStats": {
     "magic_eye": {
      "points": 474, 
@@ -14,7 +14,7 @@
      "time": 1505775523
     }, 
     "warmup": {
-     "points": 500, 
+     "points": 474, 
      "time": 1505776221
     }
    }, 
@@ -37,13 +37,17 @@
    "team": "rafael_p"
   }, 
   {
-   "lastAccept": 1505775621, 
+   "lastAccept": 1505787838, 
    "pos": 3, 
-   "score": 453, 
+   "score": 927, 
    "taskStats": {
     "rsa_sux": {
      "points": 453, 
      "time": 1505775621
+    }, 
+    "warmup": {
+     "points": 474, 
+     "time": 1505787838
     }
    }, 
    "team": "meados_d_escazzes"
