@@ -1,13 +1,17 @@
 {
  "standings": [
   {
-   "lastAccept": 1505789641, 
+   "lastAccept": 1505824621, 
    "pos": 1, 
-   "score": 1901, 
+   "score": 2401, 
    "taskStats": {
     "crypto_img": {
      "points": 500, 
      "time": 1505789641
+    }, 
+    "faas_blacklist": {
+     "points": 500, 
+     "time": 1505824621
     }, 
     "magic_eye": {
      "points": 474, 
@@ -61,6 +65,7 @@
   "magic_eye", 
   "rsa_sux", 
   "warmup", 
-  "crypto_img"
+  "crypto_img", 
+  "faas_blacklist"
  ]
 }
