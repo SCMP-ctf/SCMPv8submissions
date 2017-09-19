@@ -1,10 +1,14 @@
 {
  "standings": [
   {
-   "lastAccept": 1505776221, 
+   "lastAccept": 1505789641, 
    "pos": 1, 
-   "score": 1401, 
+   "score": 1901, 
    "taskStats": {
+    "crypto_img": {
+     "points": 500, 
+     "time": 1505789641
+    }, 
     "magic_eye": {
      "points": 474, 
      "time": 1505775287
@@ -56,6 +60,7 @@
  "tasks": [
   "magic_eye", 
   "rsa_sux", 
-  "warmup"
+  "warmup", 
+  "crypto_img"
  ]
 }
