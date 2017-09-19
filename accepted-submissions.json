@@ -3,14 +3,14 @@
   {
    "lastAccept": 1505776221, 
    "pos": 1, 
-   "score": 1448, 
+   "score": 1427, 
    "taskStats": {
     "magic_eye": {
      "points": 474, 
      "time": 1505775287
     }, 
     "rsa_sux": {
-     "points": 474, 
+     "points": 453, 
      "time": 1505775523
     }, 
     "warmup": {
@@ -21,28 +21,32 @@
    "team": "Fatec_Ourinhos"
   }, 
   {
-   "lastAccept": 1505775621, 
+   "lastAccept": 1505780814, 
    "pos": 2, 
-   "score": 474, 
-   "taskStats": {
-    "rsa_sux": {
-     "points": 474, 
-     "time": 1505775621
-    }
-   }, 
-   "team": "meados_d_escazzes"
-  }, 
-  {
-   "lastAccept": 1505780416, 
-   "pos": 3, 
-   "score": 474, 
+   "score": 927, 
    "taskStats": {
     "magic_eye": {
      "points": 474, 
      "time": 1505780416
+    }, 
+    "rsa_sux": {
+     "points": 453, 
+     "time": 1505780814
     }
    }, 
    "team": "rafael_p"
+  }, 
+  {
+   "lastAccept": 1505775621, 
+   "pos": 3, 
+   "score": 453, 
+   "taskStats": {
+    "rsa_sux": {
+     "points": 453, 
+     "time": 1505775621
+    }
+   }, 
+   "team": "meados_d_escazzes"
   }
  ], 
  "tasks": [
