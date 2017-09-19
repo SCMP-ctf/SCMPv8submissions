@@ -3,10 +3,10 @@
   {
    "lastAccept": 1505776221, 
    "pos": 1, 
-   "score": 1474, 
+   "score": 1448, 
    "taskStats": {
     "magic_eye": {
-     "points": 500, 
+     "points": 474, 
      "time": 1505775287
     }, 
     "rsa_sux": {
@@ -31,6 +31,18 @@
     }
    }, 
    "team": "meados_d_escazzes"
+  }, 
+  {
+   "lastAccept": 1505780416, 
+   "pos": 3, 
+   "score": 474, 
+   "taskStats": {
+    "magic_eye": {
+     "points": 474, 
+     "time": 1505780416
+    }
+   }, 
+   "team": "rafael_p"
   }
  ], 
  "tasks": [
