@@ -57,13 +57,17 @@
    "team": "rafael_p"
   }, 
   {
-   "lastAccept": 1505838513, 
+   "lastAccept": 1505874146, 
    "pos": 3, 
-   "score": 1359, 
+   "score": 1859, 
    "taskStats": {
     "crypto_img": {
      "points": 453, 
      "time": 1505838513
+    }, 
+    "faas_fixed_ip": {
+     "points": 500, 
+     "time": 1505874146
     }, 
     "rsa_sux": {
      "points": 453, 
@@ -83,6 +87,7 @@
   "warmup", 
   "crypto_img", 
   "faas_blacklist", 
-  "matrix_gift"
+  "matrix_gift", 
+  "faas_fixed_ip"
  ]
 }
