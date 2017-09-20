@@ -3,7 +3,7 @@
   {
    "lastAccept": 1505824621, 
    "pos": 1, 
-   "score": 2354, 
+   "score": 2333, 
    "taskStats": {
     "crypto_img": {
      "points": 453, 
@@ -22,36 +22,16 @@
      "time": 1505775523
     }, 
     "warmup": {
-     "points": 474, 
+     "points": 453, 
      "time": 1505776221
     }
    }, 
    "team": "Fatec_Ourinhos"
   }, 
   {
-   "lastAccept": 1505838513, 
+   "lastAccept": 1505866032, 
    "pos": 2, 
-   "score": 1380, 
-   "taskStats": {
-    "crypto_img": {
-     "points": 453, 
-     "time": 1505838513
-    }, 
-    "rsa_sux": {
-     "points": 453, 
-     "time": 1505775621
-    }, 
-    "warmup": {
-     "points": 474, 
-     "time": 1505787838
-    }
-   }, 
-   "team": "meados_d_escazzes"
-  }, 
-  {
-   "lastAccept": 1505860694, 
-   "pos": 3, 
-   "score": 1380, 
+   "score": 1833, 
    "taskStats": {
     "crypto_img": {
      "points": 453, 
@@ -64,9 +44,33 @@
     "rsa_sux": {
      "points": 453, 
      "time": 1505780814
+    }, 
+    "warmup": {
+     "points": 453, 
+     "time": 1505866032
     }
    }, 
    "team": "rafael_p"
+  }, 
+  {
+   "lastAccept": 1505838513, 
+   "pos": 3, 
+   "score": 1359, 
+   "taskStats": {
+    "crypto_img": {
+     "points": 453, 
+     "time": 1505838513
+    }, 
+    "rsa_sux": {
+     "points": 453, 
+     "time": 1505775621
+    }, 
+    "warmup": {
+     "points": 453, 
+     "time": 1505787838
+    }
+   }, 
+   "team": "meados_d_escazzes"
   }
  ], 
  "tasks": [
