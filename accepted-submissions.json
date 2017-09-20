@@ -33,8 +33,40 @@
    "team": "meados_d_escazzes"
   }, 
   {
-   "lastAccept": 1505872833, 
+   "lastAccept": 1505879181, 
    "pos": 2, 
+   "score": 2768, 
+   "taskStats": {
+    "crypto_img": {
+     "points": 453, 
+     "time": 1505789641
+    }, 
+    "faas_blacklist": {
+     "points": 474, 
+     "time": 1505824621
+    }, 
+    "magic_eye": {
+     "points": 435, 
+     "time": 1505775287
+    }, 
+    "qrcanvas_b1": {
+     "points": 500, 
+     "time": 1505879181
+    }, 
+    "rsa_sux": {
+     "points": 453, 
+     "time": 1505775523
+    }, 
+    "warmup": {
+     "points": 453, 
+     "time": 1505776221
+    }
+   }, 
+   "team": "Fatec_Ourinhos"
+  }, 
+  {
+   "lastAccept": 1505872833, 
+   "pos": 3, 
    "score": 2294, 
    "taskStats": {
     "crypto_img": {
@@ -61,34 +93,6 @@
    "team": "rafael_p"
   }, 
   {
-   "lastAccept": 1505824621, 
-   "pos": 3, 
-   "score": 2268, 
-   "taskStats": {
-    "crypto_img": {
-     "points": 453, 
-     "time": 1505789641
-    }, 
-    "faas_blacklist": {
-     "points": 474, 
-     "time": 1505824621
-    }, 
-    "magic_eye": {
-     "points": 435, 
-     "time": 1505775287
-    }, 
-    "rsa_sux": {
-     "points": 453, 
-     "time": 1505775523
-    }, 
-    "warmup": {
-     "points": 453, 
-     "time": 1505776221
-    }
-   }, 
-   "team": "Fatec_Ourinhos"
-  }, 
-  {
    "lastAccept": 1505877419, 
    "pos": 4, 
    "score": 435, 
@@ -108,6 +112,7 @@
   "crypto_img", 
   "faas_blacklist", 
   "matrix_gift", 
-  "faas_fixed_ip"
+  "faas_fixed_ip", 
+  "qrcanvas_b1"
  ]
 }
