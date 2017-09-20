@@ -29,9 +29,9 @@
    "team": "Fatec_Ourinhos"
   }, 
   {
-   "lastAccept": 1505866032, 
+   "lastAccept": 1505872833, 
    "pos": 2, 
-   "score": 1833, 
+   "score": 2333, 
    "taskStats": {
     "crypto_img": {
      "points": 453, 
@@ -40,6 +40,10 @@
     "magic_eye": {
      "points": 474, 
      "time": 1505780416
+    }, 
+    "matrix_gift": {
+     "points": 500, 
+     "time": 1505872833
     }, 
     "rsa_sux": {
      "points": 453, 
@@ -78,6 +82,7 @@
   "rsa_sux", 
   "warmup", 
   "crypto_img", 
-  "faas_blacklist"
+  "faas_blacklist", 
+  "matrix_gift"
  ]
 }
