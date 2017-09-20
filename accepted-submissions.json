@@ -3,7 +3,7 @@
   {
    "lastAccept": 1505874241, 
    "pos": 1, 
-   "score": 2786, 
+   "score": 2768, 
    "taskStats": {
     "crypto_img": {
      "points": 453, 
@@ -18,7 +18,7 @@
      "time": 1505874146
     }, 
     "magic_eye": {
-     "points": 453, 
+     "points": 435, 
      "time": 1505874241
     }, 
     "rsa_sux": {
@@ -35,14 +35,14 @@
   {
    "lastAccept": 1505872833, 
    "pos": 2, 
-   "score": 2312, 
+   "score": 2294, 
    "taskStats": {
     "crypto_img": {
      "points": 453, 
      "time": 1505860694
     }, 
     "magic_eye": {
-     "points": 453, 
+     "points": 435, 
      "time": 1505780416
     }, 
     "matrix_gift": {
@@ -63,7 +63,7 @@
   {
    "lastAccept": 1505824621, 
    "pos": 3, 
-   "score": 2286, 
+   "score": 2268, 
    "taskStats": {
     "crypto_img": {
      "points": 453, 
@@ -74,7 +74,7 @@
      "time": 1505824621
     }, 
     "magic_eye": {
-     "points": 453, 
+     "points": 435, 
      "time": 1505775287
     }, 
     "rsa_sux": {
@@ -87,6 +87,18 @@
     }
    }, 
    "team": "Fatec_Ourinhos"
+  }, 
+  {
+   "lastAccept": 1505877419, 
+   "pos": 4, 
+   "score": 435, 
+   "taskStats": {
+    "magic_eye": {
+     "points": 435, 
+     "time": 1505877419
+    }
+   }, 
+   "team": "z01_t34m"
   }
  ], 
  "tasks": [
