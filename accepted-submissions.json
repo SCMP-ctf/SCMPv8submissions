@@ -1,16 +1,48 @@
 {
  "standings": [
   {
-   "lastAccept": 1505872833, 
+   "lastAccept": 1505874241, 
    "pos": 1, 
-   "score": 2333, 
+   "score": 2786, 
+   "taskStats": {
+    "crypto_img": {
+     "points": 453, 
+     "time": 1505838513
+    }, 
+    "faas_blacklist": {
+     "points": 474, 
+     "time": 1505874209
+    }, 
+    "faas_fixed_ip": {
+     "points": 500, 
+     "time": 1505874146
+    }, 
+    "magic_eye": {
+     "points": 453, 
+     "time": 1505874241
+    }, 
+    "rsa_sux": {
+     "points": 453, 
+     "time": 1505775621
+    }, 
+    "warmup": {
+     "points": 453, 
+     "time": 1505787838
+    }
+   }, 
+   "team": "meados_d_escazzes"
+  }, 
+  {
+   "lastAccept": 1505872833, 
+   "pos": 2, 
+   "score": 2312, 
    "taskStats": {
     "crypto_img": {
      "points": 453, 
      "time": 1505860694
     }, 
     "magic_eye": {
-     "points": 474, 
+     "points": 453, 
      "time": 1505780416
     }, 
     "matrix_gift": {
@@ -29,37 +61,9 @@
    "team": "rafael_p"
   }, 
   {
-   "lastAccept": 1505874209, 
-   "pos": 2, 
-   "score": 2333, 
-   "taskStats": {
-    "crypto_img": {
-     "points": 453, 
-     "time": 1505838513
-    }, 
-    "faas_blacklist": {
-     "points": 474, 
-     "time": 1505874209
-    }, 
-    "faas_fixed_ip": {
-     "points": 500, 
-     "time": 1505874146
-    }, 
-    "rsa_sux": {
-     "points": 453, 
-     "time": 1505775621
-    }, 
-    "warmup": {
-     "points": 453, 
-     "time": 1505787838
-    }
-   }, 
-   "team": "meados_d_escazzes"
-  }, 
-  {
    "lastAccept": 1505824621, 
    "pos": 3, 
-   "score": 2307, 
+   "score": 2286, 
    "taskStats": {
     "crypto_img": {
      "points": 453, 
@@ -70,7 +74,7 @@
      "time": 1505824621
     }, 
     "magic_eye": {
-     "points": 474, 
+     "points": 453, 
      "time": 1505775287
     }, 
     "rsa_sux": {
